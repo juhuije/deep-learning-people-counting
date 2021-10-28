@@ -9,7 +9,8 @@
 
 # 2. 사용 기술 및 언어
  Yolov4 & DeepSort  
- Python3.7 , Javascript  
+ Python3.7 , Javascript
+ MariaDB, SQL
 
 # 3. 개발환경
  OS : Ubuntu 18.04  
